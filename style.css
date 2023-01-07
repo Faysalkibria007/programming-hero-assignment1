@@ -122,10 +122,10 @@ body {
 
 .footer {
     padding: 80px;
-    background-color: black;
+    background: linear-gradient(0.25turn, #032b3d, #095db1, #1445e7);
     color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 50px;
 }
 
